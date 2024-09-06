@@ -7,10 +7,10 @@ Manejo de tipo de variables, cadenas, if, for, while
 ## Manejo de cadenas
 - Codigo
 -![image](https://github.com/user-attachments/assets/f7af6e54-8655-4891-af0c-29b84ac21880)
--Resultado
+- Resultado
 -![image](https://github.com/user-attachments/assets/0c602f08-de8a-436d-990f-25e09c8022ae)
 ## if else
--Cuando es verdadero
+- Cuando es verdadero
 ![image](https://github.com/user-attachments/assets/b923ceaf-f045-4e44-9707-f78b96a69746)
--Cuando el caso es falso
+- Cuando el caso es falso
 -![image](https://github.com/user-attachments/assets/bffd8bf8-79b6-467c-9f2d-3218902b5a76)
